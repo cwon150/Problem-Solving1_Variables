@@ -8,9 +8,9 @@ a = input("a: ")
 
 b = input("b: ")
 
-# Don't change the code above ###############
+# Don't change the code above###############
 
-# Write your code below this line ###############
+# Write your code below this line###############
 
 c = a
 
@@ -26,9 +26,9 @@ b = c
 
 # In conclusion: we will get a = 10 and b = 5. 
 
-# write your code above this line ##################
+# write your code above this line##################
 
-# Don't change the code below ################
+# Don't change the code below################
 
 print("a: " + a)
 
