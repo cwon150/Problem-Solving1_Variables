@@ -14,7 +14,7 @@ b = input("b: ")
 
 c = a
 
-# Explanation: so assign c the empty variables c = a. Because a = 5, so 'c' is 5 now.
+# Explanation: so assign 'c' the empty variables c = a. Because a = 5, so 'c' is 5 now.
 
 a = b
 
