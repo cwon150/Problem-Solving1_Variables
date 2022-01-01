@@ -38,12 +38,12 @@ print("b: " + b)
 
 # For simplity, we image that there are cups. 'a' is coffee and 'b' is tea. Actually we also can do this problem with strings as variables.
 
-# Solution: We add another variables, which is getting another empty cup. Let's call it, 'c'. 
+# Solution: We add another variables, which is 'c', which is an empty cup. 
 
 # 1. Pour 'a' (coffee) to 'c'. Now 'c' has coffee. Hence, c = a. (Line 15)
 
-# 2. According to Python, 'a' still has coffee. We pour 'a' coffee away to the sink, and fill with 'b' tea. Now 'a' has tea. Hence, a = b. (Line 19)
+# 2. According to Python, 'a' still has coffee. We drank 'a' coffee until the cup is empty, and then we fill with 'b' tea. Now 'a' has tea. Hence, a = b. (Line 19)
 
-# 3. According to Python, 'b' still has tea. We pour 'b' tea away to the sink, and fill with 'c' coffee. Now 'b' has coffee. Hence, b = c (Line 23)
+# 3. According to Python, 'b' still has tea. We drank 'b' tea until the cup is empty, and fill with 'c' coffee. Now 'b' has coffee. Hence, b = c (Line 23)
 
 # 4. This is not important, but for people to understand. 'c' is still filled with coffee. If it is in an integer for a = 5; b = 10 , the result 'c' is still 5. 
