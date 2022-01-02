@@ -1,4 +1,4 @@
-# Problem-Solving1_Variables
+# PythonCoding_Problem-Solving1_Variables
 
 # Example, a = 5 and b = 10. Then output a = 10 and b = 5. Whatever 'a' was before, it  will be 'b' result and vice versa. 
 
